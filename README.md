@@ -2,7 +2,7 @@
 
 Four-page site for a fictional residential and commercial interior design studio, built as a front-end demo. No framework, no build step, no dependencies.
 
-[![Live demo](https://img.shields.io/badge/demo-moderninterior.wib.digital-2ea44f)](https://moderninterior.wib.digital)
+[![Live demo](https://img.shields.io/badge/demo-pablowib.github.io/Modern-Interior-Web-2ea44f)](https://pablowib.github.io/Modern-Interior-Web)
 [![Hire me on Fiverr](https://img.shields.io/badge/Hire%20me%20on-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/pablonietop)
 ![Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen)
 ![Build step](https://img.shields.io/badge/build%20step-none-lightgrey)
@@ -93,7 +93,7 @@ Photographs were 22.4 MB of PNG before this rewrite; they are 373 KB of WebP now
 
 ## Deployment
 
-Static hosting, no build command and no output directory — upload the repository root as-is. Deployed on Vercel at [moderninterior.wib.digital](https://moderninterior.wib.digital).
+Static hosting, no build command and no output directory — upload the repository root as-is. Deployed on GitHub Pages at [pablowib.github.io/Modern-Interior-Web](https://pablowib.github.io/Modern-Interior-Web).
 
 The canonical URLs in `sitemap.xml`, `robots.txt` and the `<link rel="canonical">` tags all point at that domain. Change them if you deploy elsewhere.
 
